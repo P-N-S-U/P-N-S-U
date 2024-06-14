@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Priyanshu 
+- 👋 Hi, I’m Priyanshu IT engineering student and a part-time comedian
 - 👀 I’m interested in coding, app development and 9yr olds
 - ⚽ Intrested in sports aswell
-  personal fav games football, my career, Neha & aishwarya 
+  personal fav games are football, my career, Neha & aishwarya 
 - 🌱 I’m currently learning Python, web-dev and to fix my retarded behaviour
 - 📫 How to reach me <br>
   Instagram : https://www.instagram.com/ct7priyanshu_?igsh=OGZrN2FnMm80Yjh6<br>
-  X : lives in Mumbai
+  X :
 - Pronouns: Batman
 - ⚡ Fun fact: fish cannot climb a tree
 
