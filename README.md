@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Priyanshu 
-- 👀 I’m interested in coding, cybersecurity and 9yr olds
+- 👀 I’m interested in coding, app development and 9yr olds
 - ⚽ Intrested in sports aswell
-- personal fav sports football, my career, and Neha
-- 🌱 I’m currently learning Python, web-dev and fix my retarded behaviour
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+  personal fav games football, my career, Neha & aishwarya 
+- 🌱 I’m currently learning Python, web-dev and to fix my retarded behaviour
+- 📫 How to reach me <br>
+  Instagram : https://www.instagram.com/ct7priyanshu_?igsh=OGZrN2FnMm80Yjh6<br>
+  X : lives in Mumbai
+- Pronouns: Batman
+- ⚡ Fun fact: fish cannot climb a tree
 
 <!---
 P-N-S-U/P-N-S-U is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
