@@ -12,9 +12,9 @@
 
 ## 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername/)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ct7priyanshu_/)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=flat&logo=twitter&logoColor=white)](https://twitter.com/_PYNSU_/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-malusare-83509a1a6/)
 
 
 ## 🛠 Tech Stack
