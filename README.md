@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning MERN and to fix my retarded behavior
 - 📫 How to reach me <br>
   Instagram : https://www.instagram.com/ct7priyanshu_?igsh=OGZrN2FnMm80Yjh6<br>
-  X : https://x.com/_PYNSU_
+  X : https://x.com/_PYNSU_/
 - ⚡ Fun fact: fish cannot climb a tree
 
 <!---
